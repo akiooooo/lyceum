@@ -1,2 +1,2 @@
-# lyceum
+# Flying Plane
 Project by Arseniy
